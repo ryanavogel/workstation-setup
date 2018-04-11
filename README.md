@@ -2,7 +2,8 @@
 
 ## Git
 
-Merge and diff tool is [DiffMerge](https://sourcegear.com/diffmerge/).
+* [Git for Windows](https://git-scm.com/download/win)
+* Merge and diff tool is [DiffMerge](https://sourcegear.com/diffmerge/).
 
 ```
 git config --global user.name Ryan Vogel
